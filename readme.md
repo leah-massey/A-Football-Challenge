@@ -19,7 +19,7 @@ Odd of victory Borrussia Dortmund: 6.5
 
 ## 4.
 
-Bonus:Createanobjectcalled'scorers'whichcontainsthenamesofthe players who scored as properties, and the number of goals as the value. In this game, it will look like this:
+Bonus: Create an object called 'scorers' which contains the names of the players who scored as properties, and the number of goals as the value. In this game, it will look like this:
 {
 Gnarby: 1,
 Hummels: 1,
